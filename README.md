@@ -1,15 +1,15 @@
 # wondershare-filmora-13-6-4-offline-installer
 
-Wondershare Filmora Full Version 13.6.4 x64 Offline Installer 
+Wondershare Filmora Full Version 13.6.13 x64 Offline Installer 
 
-Released AUGUST 7 2024
+Released SEPT 27 2024
 
 A public backup for the people that purchased the software and did not purchase the 'Download Insurance'? 
 
 
 ## Clone this repo
 
-`git clone https://github.com/noarche/-wondershare-filmora-13-6-4-offline-installer`
+`git clone https://github.com/noarche/wondershare-filmora-13-6-13-offline-installer`
 
 
 ## Extraction:
@@ -19,25 +19,13 @@ Winrar can be found at https://www.rarlab.com/download.htm
 Open part one of the archive to extract the install .exe
 
 
-## File: 
-
-FILMORA 13.6.4 RELEASED AUG 7 2024
-
-File: filmora-idco_64bit_13.6.4_full1901.exe
-
-SHA1: ffa27ee31c800eb6623515025f33842174815b38
-
-SHA256: f94f2dc1c0e64eefab475fb9ee54b6cf28354d78fb409c0b8b01207cf478130e
-
-SHA384: b397cef4e68338afe64b89669ef84de271949eef2c60b49b95c607ae13c64b2ae788ff60edc4bd758ba5195f2b80de1b
-
-SHA512: 412219a62555d9e5d98764f48d519a784eaa88deb6961427273ee3ca33743ce26d26f6ad68baad7186a28fcda8311986f46a239c7f9abf21b2cf96ee83e610d6
-
 
 
 
 
 ## Screenshots
+
+Screenshot from ![13.6.13](https://github.com/user-attachments/assets/ab6e2695-f5ea-4f05-be68-3092591642fd)
 
 screenshot from [13.6.4](https://github.com/noarche/-wondershare-filmora-13-6-4-offline-installer)
 
